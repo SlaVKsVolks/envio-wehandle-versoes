@@ -1,0 +1,17 @@
+[project]
+name = "offline-matching-dry-run"
+version = "0.1.0"
+description = "Local text matching and advisory dry-run reports; uploads unavailable"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

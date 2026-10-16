@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "pages": [
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nPessoa Sintetica Alfa\nCPF: 12345678909\nCompetencia: 09/2026",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nCPF: 12345678909\nContinuacao identificada",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nPessoa Sintetica Beta\nCPF: 98765432100",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nAnexo sem identificacao",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nPessoa Sintetica Gama",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nPessoa Sintetica Delta\nCPF: 52998224725",
+    "EXEMPLO SINTETICO - SEM VALOR LEGAL\nPessoa Sintetica Alfa\nCPF: 12345678900"
+  ]
+}

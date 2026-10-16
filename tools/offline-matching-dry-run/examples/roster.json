@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "scope": {"account_id": "synthetic", "company_id": "1", "unit_id": "2", "service_id": "3"},
+  "observed_at": "2026-01-01T00:00:00Z",
+  "source_reference": "synthetic-example-only",
+  "employees": [
+    {"employee_id": "10", "name": "Pessoa Sintetica Alfa", "cpf": "12345678909", "active": true, "scope": {"account_id": "synthetic", "company_id": "1", "unit_id": "2", "service_id": "3"}},
+    {"employee_id": "20", "name": "Pessoa Sintetica Beta", "cpf": "98765432100", "active": true, "scope": {"account_id": "synthetic", "company_id": "1", "unit_id": "2", "service_id": "3"}},
+    {"employee_id": "30", "name": "Pessoa Sintetica Gama", "cpf": "11144477735", "active": true, "scope": {"account_id": "synthetic", "company_id": "1", "unit_id": "2", "service_id": "3"}},
+    {"employee_id": "40", "name": "Pessoa Sintetica Delta", "cpf": "52998224725", "active": false, "scope": {"account_id": "synthetic", "company_id": "1", "unit_id": "2", "service_id": "3"}}
+  ]
+}
